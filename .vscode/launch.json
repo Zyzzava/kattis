@@ -1,0 +1,399 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "addtwonumbers",
+            "request": "launch",
+            "mainClass": "addtwonumbers",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "apaxiaaans",
+            "request": "launch",
+            "mainClass": "apaxiaaans",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "autori",
+            "request": "launch",
+            "mainClass": "autori",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "batterup",
+            "request": "launch",
+            "mainClass": "batterup",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "betting",
+            "request": "launch",
+            "mainClass": "betting",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "carrots",
+            "request": "launch",
+            "mainClass": "carrots",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "cold",
+            "request": "launch",
+            "mainClass": "cold",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "countthevowels",
+            "request": "launch",
+            "mainClass": "countthevowels",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "digitswap",
+            "request": "launch",
+            "mainClass": "digitswap",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "echoechoecho",
+            "request": "launch",
+            "mainClass": "echoechoecho",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "electricaloutlets",
+            "request": "launch",
+            "mainClass": "electricaloutlets",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "everywhere",
+            "request": "launch",
+            "mainClass": "everywhere",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "faktor",
+            "request": "launch",
+            "mainClass": "faktor",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "fiftyshades",
+            "request": "launch",
+            "mainClass": "fiftyshades",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "filip",
+            "request": "launch",
+            "mainClass": "filip",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "findingana",
+            "request": "launch",
+            "mainClass": "findingana",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "fyi",
+            "request": "launch",
+            "mainClass": "fyi",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "gcvwr",
+            "request": "launch",
+            "mainClass": "gcvwr",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "grassseed",
+            "request": "launch",
+            "mainClass": "grassseed",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "greetings2",
+            "request": "launch",
+            "mainClass": "greetings2",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "hissingmicrophone",
+            "request": "launch",
+            "mainClass": "hissingmicrophone",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "isithalloween",
+            "request": "launch",
+            "mainClass": "isithalloween",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "jackolanternjuxtaposition",
+            "request": "launch",
+            "mainClass": "jackolanternjuxtaposition",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "janitortroubles",
+            "request": "launch",
+            "mainClass": "janitortroubles",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "jobexpenses",
+            "request": "launch",
+            "mainClass": "jobexpenses",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "jumbojavelin",
+            "request": "launch",
+            "mainClass": "jumbojavelin",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "knightpacking",
+            "request": "launch",
+            "mainClass": "knightpacking",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "magictrick",
+            "request": "launch",
+            "mainClass": "magictrick",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "metronome",
+            "request": "launch",
+            "mainClass": "metronome",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "nastyhacks",
+            "request": "launch",
+            "mainClass": "nastyhacks",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "nsum",
+            "request": "launch",
+            "mainClass": "nsum",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "oddecho",
+            "request": "launch",
+            "mainClass": "oddecho",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "oddities",
+            "request": "launch",
+            "mainClass": "oddities",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "pet",
+            "request": "launch",
+            "mainClass": "pet",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "pot",
+            "request": "launch",
+            "mainClass": "pot",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "qaly",
+            "request": "launch",
+            "mainClass": "qaly",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "quadrant",
+            "request": "launch",
+            "mainClass": "quadrant",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "quickestimate",
+            "request": "launch",
+            "mainClass": "quickestimate",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "r2",
+            "request": "launch",
+            "mainClass": "r2",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "ratingproblems",
+            "request": "launch",
+            "mainClass": "ratingproblems",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "reversebinary",
+            "request": "launch",
+            "mainClass": "reversebinary",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "sorttwonumbers",
+            "request": "launch",
+            "mainClass": "sorttwonumbers",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "spavanac",
+            "request": "launch",
+            "mainClass": "spavanac",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "stopwatch",
+            "request": "launch",
+            "mainClass": "stopwatch",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "sumsquareddigits",
+            "request": "launch",
+            "mainClass": "sumsquareddigits",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "tarifa",
+            "request": "launch",
+            "mainClass": "tarifa",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "timeloop",
+            "request": "launch",
+            "mainClass": "timeloop",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "triarea",
+            "request": "launch",
+            "mainClass": "triarea",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "trik",
+            "request": "launch",
+            "mainClass": "trik",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "twostones",
+            "request": "launch",
+            "mainClass": "twostones",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "twosum",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "undeadoralive",
+            "request": "launch",
+            "mainClass": "undeadoralive",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "whichisgreater",
+            "request": "launch",
+            "mainClass": "whichisgreater",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "zamka",
+            "request": "launch",
+            "mainClass": "zamka",
+            "projectName": "kattis_5d9a75b9"
+        }
+    ]
+}
