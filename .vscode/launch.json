@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ghostleg",
+            "request": "launch",
+            "mainClass": "ghostleg",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
