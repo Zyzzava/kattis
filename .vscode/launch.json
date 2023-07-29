@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nodup",
+            "request": "launch",
+            "mainClass": "nodup",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
+            "name": "addingtrouble",
+            "request": "launch",
+            "mainClass": "addingtrouble",
+            "projectName": "kattis_5d9a75b9"
+        },
+        {
+            "type": "java",
             "name": "ghostleg",
             "request": "launch",
             "mainClass": "ghostleg",
